@@ -1,0 +1,12 @@
+{
+  "name": "Smart Attendance Dark Blue",
+  "background": "#07111f",
+  "sidebar": "#0b1628",
+  "panel": "#0f1f35",
+  "card": "#13253d",
+  "accent": "#38bdf8",
+  "success": "#22c55e",
+  "warning": "#f59e0b",
+  "danger": "#ef4444",
+  "text": "#f8fafc"
+}
