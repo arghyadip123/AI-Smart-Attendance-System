@@ -215,6 +215,26 @@ This project demonstrates:
 - Modular software architecture
 - Error handling and logging
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login_page.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard_page.png)
+
+### Attendance Recognition
+![Attendance Recognition](screenshots/attendance_recognition.png)
+
+### Student Management
+![Students](screenshots/students_management.png)
+
+### Analytics
+![Analytics](screenshots/attendance_analytics.png)
+
+### Settings
+![Settings](screenshots/system_settings.png)
+
 ## Troubleshooting
 
 - If the camera does not open, check whether another app is using it.
