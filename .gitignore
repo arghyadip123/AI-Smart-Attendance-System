@@ -2,8 +2,6 @@ __pycache__/
 *.pyc
 venv/
 .venv/
-screenshots/*.jpg
-screenshots/*.png
 database/backups/*.db
 attendance/reports/*.pdf
 attendance/reports/*.xlsx
